@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Zelevar</title>
-        <link>https://zelevar.github.io/blog/</link>
+        <link>https://zelevar.github.io/</link>
         <description>Recent content on Zelevar</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ru</language>
-        <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0300</lastBuildDate><atom:link href="https://zelevar.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0300</lastBuildDate><atom:link href="https://zelevar.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Вступление</title>
-        <link>https://zelevar.github.io/blog/p/introduction/</link>
+        <link>https://zelevar.github.io/p/introduction/</link>
         <pubDate>Sun, 02 Oct 2022 00:00:00 +0300</pubDate>
         
-        <guid>https://zelevar.github.io/blog/p/introduction/</guid>
-        <description>&lt;img src="https://zelevar.github.io/blog/p/introduction/introduction.jpg" alt="Featured image of post Вступление" /&gt;&lt;p&gt;На этом сайте будут публиковаться всяческие гайды по программированию и многое другое. Словом то, что автору придет в голову :)&lt;/p&gt;
+        <guid>https://zelevar.github.io/p/introduction/</guid>
+        <description>&lt;img src="https://zelevar.github.io/p/introduction/introduction.jpg" alt="Featured image of post Вступление" /&gt;&lt;p&gt;На этом сайте будут публиковаться всяческие гайды по программированию и многое другое. Словом то, что автору придет в голову :)&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Архивы</title>
-        <link>https://zelevar.github.io/blog/archives/</link>
+        <link>https://zelevar.github.io/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://zelevar.github.io/blog/archives/</guid>
+        <guid>https://zelevar.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Поиск</title>
-        <link>https://zelevar.github.io/blog/search/</link>
+        <link>https://zelevar.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://zelevar.github.io/blog/search/</guid>
+        <guid>https://zelevar.github.io/search/</guid>
         <description></description>
         </item>
         <item>
         <title>Ссылки</title>
-        <link>https://zelevar.github.io/blog/links/</link>
+        <link>https://zelevar.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://zelevar.github.io/blog/links/</guid>
+        <guid>https://zelevar.github.io/links/</guid>
         <description>&lt;p&gt;Ссылки и контакты для связи&lt;/p&gt;
 </description>
         </item>

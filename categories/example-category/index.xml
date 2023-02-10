@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Category on Zelevar</title>
-        <link>https://zelevar.github.io/blog/categories/example-category/</link>
+        <link>https://zelevar.github.io/categories/example-category/</link>
         <description>Recent content in Example Category on Zelevar</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ru</language><atom:link href="https://zelevar.github.io/blog/categories/example-category/index.xml" rel="self" type="application/rss+xml" />
+        <language>ru</language><atom:link href="https://zelevar.github.io/categories/example-category/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
