@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Zelevar</title>
+        <link>https://zelevar.github.io/blog/categories/</link>
+        <description>Recent content in Categories on Zelevar</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru</language>
+        <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0300</lastBuildDate><atom:link href="https://zelevar.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Разное</title>
+        <link>https://zelevar.github.io/blog/categories/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</link>
+        <pubDate>Sun, 02 Oct 2022 00:00:00 +0300</pubDate>
+        
+        <guid>https://zelevar.github.io/blog/categories/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Example Category</title>
+        <link>https://zelevar.github.io/blog/categories/example-category/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zelevar.github.io/blog/categories/example-category/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

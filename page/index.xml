@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Zelevar</title>
+        <link>https://zelevar.github.io/blog/page/</link>
+        <description>Recent content in Pages on Zelevar</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru</language>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zelevar.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Архивы</title>
+        <link>https://zelevar.github.io/blog/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://zelevar.github.io/blog/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Поиск</title>
+        <link>https://zelevar.github.io/blog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zelevar.github.io/blog/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ссылки</title>
+        <link>https://zelevar.github.io/blog/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://zelevar.github.io/blog/links/</guid>
+        <description>&lt;p&gt;Ссылки и контакты для связи&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
