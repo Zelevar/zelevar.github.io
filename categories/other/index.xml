@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Другое on Zelevar</title>
+        <link>https://zelevar.github.io/categories/other/</link>
+        <description>Recent content in Другое on Zelevar</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ru</language>
+        <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0300</lastBuildDate><atom:link href="https://zelevar.github.io/categories/other/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Вступление</title>
+        <link>https://zelevar.github.io/p/introduction/</link>
+        <pubDate>Fri, 10 Feb 2023 00:00:00 +0300</pubDate>
+        
+        <guid>https://zelevar.github.io/p/introduction/</guid>
+        <description>&lt;img src="https://zelevar.github.io/p/introduction/cover.jpg" alt="Featured image of post Вступление" /&gt;&lt;p&gt;На этом сайте будут публиковаться всяческие гайды по программированию и многое другое. Словом то, что автору придет в голову :)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

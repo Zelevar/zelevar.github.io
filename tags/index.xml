@@ -5,6 +5,23 @@
         <link>https://zelevar.github.io/tags/</link>
         <description>Recent content in Tags on Zelevar</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ru</language><atom:link href="https://zelevar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>ru</language>
+        <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0300</lastBuildDate><atom:link href="https://zelevar.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>c&#43;&#43;</title>
+        <link>https://zelevar.github.io/tags/c&#43;&#43;/</link>
+        <pubDate>Sat, 11 Feb 2023 00:00:00 +0300</pubDate>
+        
+        <guid>https://zelevar.github.io/tags/c&#43;&#43;/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>sdl</title>
+        <link>https://zelevar.github.io/tags/sdl/</link>
+        <pubDate>Sat, 11 Feb 2023 00:00:00 +0300</pubDate>
+        
+        <guid>https://zelevar.github.io/tags/sdl/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
